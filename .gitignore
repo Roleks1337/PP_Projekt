@@ -1,0 +1,25 @@
+# Visual Studio files
+.vs/
+*.user
+*.suo
+*.ipch
+*.iobj
+*.obj
+*.pdb
+*.idb
+*.aps
+*.ncb
+*.sdf
+*.cache
+*.ilk
+
+# Build output
+x64/
+Release/
+Debug/
+*.exe
+*.dll
+*.lib
+*.log
+*.tlog
+*.tmp
